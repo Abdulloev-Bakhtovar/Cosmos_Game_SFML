@@ -1,1 +1,1 @@
-# Cosm-s_Game_SFML
+# Cosmos_Game_SFML
