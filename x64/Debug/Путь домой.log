@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\Dell\Desktop\Путь домой\worklibgame.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Dell\Desktop\Путь домой\worklibgame.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Dell\Desktop\Путь домой\main.cpp(5,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Dell\Desktop\Путь домой\main.cpp(95,25): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Dell\Desktop\Путь домой\main.cpp(112,31): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Dell\Desktop\Путь домой\main.cpp(128,53): warning C4244: =: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Dell\Desktop\Путь домой\main.cpp(152,54): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\Путь домой\main.cpp(154,55): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\Путь домой\main.cpp(156,55): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\Путь домой\main.cpp(158,54): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Dell\Desktop\Путь домой\main.cpp(218,44): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Dell\Desktop\Путь домой\main.cpp(233,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dell\Desktop\Путь домой\main.cpp(236,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dell\Desktop\Путь домой\main.cpp(259,33): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dell\Desktop\Путь домой\main.cpp(262,53): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Путь домой.vcxproj -> C:\Users\Dell\Desktop\Путь домой\x64\Debug\Путь домой.exe

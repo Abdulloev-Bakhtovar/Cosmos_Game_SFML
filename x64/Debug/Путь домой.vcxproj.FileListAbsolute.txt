@@ -1,0 +1,2 @@
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\x64\Debug\Путь домой.exe
+C:\Users\Dell\Desktop\Путь домой\x64\Debug\Путь домой.exe

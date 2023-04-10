@@ -1,0 +1,11 @@
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\Путь домой.vcxproj.CopyComplete
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\Путь домой.exe
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\sfml-graphics-d-2.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\sfml-window-d-2.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\sfml-system-d-2.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\freetyped.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\zlibd1.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\bz2d.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\libpng16d.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\brotlidec.dll
+I:\Project\Visual C++\SFML\Путь домой\Путь домой\Debug\brotlicommon.dll
